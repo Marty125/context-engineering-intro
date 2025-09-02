@@ -14,9 +14,42 @@ User-focused design: Minimal, mobile-ready, bilingual (Thai/English), and role-b
 
 Scalable: From small business to enterprise without system migration.
 
-## EXAMPLES:
+### Goal
+Build a modular ERP system tailored to our company’s needs, covering Finance, Inventory, HR, and Sales.  
+The system should be **scalable**, **modular**, and **easy to extend**.
 
-[Provide and explain examples that you have in the `examples/` folder]
+### Core Modules
+1. **Finance**
+   - Track income, expenses, profit/loss
+   - Generate invoices & payment records
+   - Automated monthly/annual reports
+
+2. **Inventory**
+   - Stock tracking with minimum level alerts
+   - Real-time updates from sales and purchases
+   - Barcode/QR integration for quick scanning
+
+3. **HR**
+   - Employee onboarding and record management
+   - Attendance and leave tracking
+   - Payroll integration with Finance
+
+4. **Sales**
+   - Customer CRM (basic contact + history)
+   - Order management (quotes → invoice → delivery)
+   - Sales performance dashboards
+
+### Constraints
+- Should be modular (each part can work independently but integrates smoothly).
+- Web-based first (desktop + mobile responsive).
+- Scalable database design.
+- Integration-ready (APIs for third-party tools).
+- Low barrier for non-technical staff to use.
+
+### Success Criteria
+- Internal team can manage daily operations without manual spreadsheets.
+- Dashboards provide real-time visibility.
+- Reduces repetitive admin tasks by at least 40%.
 
 ## DOCUMENTATION:
 
